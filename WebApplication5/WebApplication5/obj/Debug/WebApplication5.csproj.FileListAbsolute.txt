@@ -1,0 +1,9 @@
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csproj.CoreCompileInputs.cache
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\unicomfacauca\source\repos\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
